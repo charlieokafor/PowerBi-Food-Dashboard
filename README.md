@@ -1,4 +1,3 @@
-# PowerBi-Food-Dashboard
 # Nutritional Data Interactive Dashboard
 
 ## Project Overview
